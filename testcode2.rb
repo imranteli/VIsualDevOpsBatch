@@ -1,2 +1,3 @@
 # This is the secnd file to be edited by Ravinder
-echo "First commit of this file."
+echo "Previous code removed."
+echo " Adding new changes."
